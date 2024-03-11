@@ -1,0 +1,115 @@
+#img{
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+}
+#h1{
+    font-family: initial;
+    font-size: xx-large;
+    color: hotpink;
+}
+#name{
+    color: darkgreen;
+    font-size: x-large;
+    font-style: oblique;
+}
+#occ{
+    font-size: x-large;
+    font-style: oblique;
+    color: darkgreen;
+}
+#h2{
+    color: rebeccapurple;
+    font-size: xx-large;
+    font-family: initial;
+}
+#des{
+    font-size: larger;
+    font-style: italic;
+    color: darkgreen;
+}
+#h3{
+    color: blueviolet;
+    font-size: xx-large;
+}
+.skills{
+    font-size: larger;
+    font-style: italic;
+    color: darkgreen;
+}
+#li1{
+    color: hotpink;
+}
+#na{
+    color: darkgreen;
+}
+#li2{
+    color: hotpink;
+}
+.non{
+    color: darkgreen;
+    
+}
+#h4{
+    color: blue;
+    font-size: xx-large;
+}
+#h5{
+    color: blueviolet;
+}
+.form{
+    font-size: larger;
+    font-style: italic;
+    color: darkgreen;
+}
+*{
+    padding-right: 90px;
+    padding-left: 90px;
+    border-color: brown;
+    border-radius: 40%;
+}
+.body{
+    background-color: turquoise;
+    background-size: 50%;
+}
+#scr{
+    height: 90%;
+    width: 90%;
+    border-radius: 20%;
+}
+#ht{
+    height: 90%;
+    width: 90%;
+    border-radius: 20%;
+}
+#ml{
+    color: darkgreen;
+    font-size: larger;
+    font-style: italic;
+}
+#in{
+    color: darkgreen;
+    font-size: larger;
+    font-style: italic;
+    
+}
+#cs{
+    color: darkgreen;
+    font-size: larger;
+    font-style: italic;
+}
+#ss{
+    color: darkgreen;
+    font-size: larger;
+    font-style: italic;
+}
+#mm{
+    font-style: italic;
+    font-size: larger;
+    color: blueviolet;
+}
+#nd{
+    color: blueviolet;
+    font-size: larger;
+    font-style: italic;
+}
